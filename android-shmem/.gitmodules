@@ -1,0 +1,3 @@
+[submodule "libancillary"]
+	path = libancillary
+	url = https://github.com/pelya/libancillary.git

@@ -1,0 +1,12 @@
+{
+	global:
+		shmctl;
+		shmget;
+		shmat;
+		shmdt;
+		ASharedMemory_create;
+		ASharedMemory_getSize;
+		ASharedMemory_setProt;
+
+	local: *;         # hide everything else
+};
